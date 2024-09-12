@@ -1,4 +1,5 @@
 # gradient_border
 
-Container witih gradient border.
+Container with gradient border.
+
 !["gradient border sample"](image.png)
